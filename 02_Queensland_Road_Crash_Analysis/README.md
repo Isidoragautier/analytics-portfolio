@@ -16,15 +16,26 @@ What temporal, spatial, and severity patterns in Queensland road crashes can inf
 - Engineered day-of-week and weekday/weekend features
 
 ### 2. Visualisations (Tableau — 9 charts)
-- **Figure 1:** Time series of total crashes 2001–2023 with trend line
-- **Figure 2:** Total crashes by month to identify seasonal patterns
-- **Figure 3:** Multi-series crash severity over time (fatal, hospitalisation, medical, minor) — `Crushes by Severity by Date.png`
-- **Figure 4:** Choropleth map of fatal crash casualties by Queensland postcode — `Fatal Crash Casualties Count by Queensland Post Code.png`
-- **Figure 5:** Top 10 postcodes by fatal crash casualties — `Top 10 Postcodes by Fatal Crash Casualties.png`
-- **Figure 6:** Fatal crash casualties time series for top 10 high-risk postcodes
-- **Figure 7:** Crashes by severity and hour of day — `Crashes by Severity by Hour.png`
-- **Figure 8:** Severity distribution across top 10 crash types — `Crash Type Severity Distribution Across Top 10 Crash Causes.png`
-- **Figure 9:** Normalised heatmap of hourly crash severity proportions — `Hourly Crash Severity Proportions Normalized by Crash Volume.png`
+
+**Figure 3: Crashes by Severity Over Time**
+![Crashes by Severity Over Time](Screenshot%202024-07-31%20112811.png)
+
+**Figure 4: Fatal Crash Casualties by Queensland Postcode**
+![Fatal Crash Casualties Count by Queensland Post Code](Fatal%20Crash%20Casualties%20Count%20by%20Queensland%20Post%20Code.png)
+
+**Figure 5: Top 10 Postcodes by Fatal Crash Casualties**
+![Top 10 Postcodes by Fatal Crash Casualties](Top%2010%20Postcodes%20by%20Fatal%20Crash%20Casualties.png)
+
+**Figure 7: Crashes by Severity by Hour**
+![Crashes by Severity by Hour](Crashes%20by%20Severity%20by%20Hour.png)
+
+**Figure 8: Crash Type Severity Distribution Across Top 10 Crash Causes**
+![Crash Type Severity Distribution Across Top 10 Crash Causes](Crash%20Type%20Severity%20Distribution%20Across%20Top%2010%20Crash%20Causes.png)
+
+**Figure 9: Hourly Crash Severity Proportions Normalised by Crash Volume**
+![Hourly Crash Severity Proportions Normalized by Crash Volume](Hourly%20Crash%20Severity%20Proportions%20Normalized%20by%20Crash%20Volume.png)
+
+> Figures 1, 2, and 6 are available in `Road_Crash_Report.pdf`
 
 ## Key findings
 - Total crashes declined significantly since 2008 peak; fatalities remain stable
