@@ -32,8 +32,12 @@ Which customer segments and categories should the shopping mall target for marke
 - Recommended marketing focus: Technology category and credit card holder campaigns
 
 ## Charts
-- `Boxplot spending by gender and category.png` — spending distribution by gender across all categories
-- `Monthly spending seasonality.png` — monthly sales trends for top 3 categories
+
+**Spending by Gender and Category**
+![Boxplot spending by gender and category](Boxplot%20spending%20by%20gender%20and%20category.png)
+
+**Monthly Spending Seasonality**
+![Monthly spending seasonality](Monthly%20spending%20seasonality.png)
 
 ## Skills demonstrated
 Data cleaning, date parsing, IQR outlier detection, EDA, correlation analysis, customer segmentation, time series visualisation, business insight communication
