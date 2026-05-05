@@ -18,7 +18,7 @@ What temporal, spatial, and severity patterns in Queensland road crashes can inf
 ### 2. Visualisations (Tableau — 9 charts)
 - **Figure 1:** Time series of total crashes 2001–2023 with trend line
 - **Figure 2:** Total crashes by month to identify seasonal patterns
-- **Figure 3:** Multi-series crash severity over time (fatal, hospitalisation, medical, minor) — `Screenshot 2024-07-31 112811.png`
+- **Figure 3:** Multi-series crash severity over time (fatal, hospitalisation, medical, minor) — `Crushes by Severity by Date.png`
 - **Figure 4:** Choropleth map of fatal crash casualties by Queensland postcode — `Fatal Crash Casualties Count by Queensland Post Code.png`
 - **Figure 5:** Top 10 postcodes by fatal crash casualties — `Top 10 Postcodes by Fatal Crash Casualties.png`
 - **Figure 6:** Fatal crash casualties time series for top 10 high-risk postcodes
