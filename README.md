@@ -1,4 +1,4 @@
-# Data Science Projects — Isidora Gautier
+# Analytics Projects — Isidora Gautier
 
 Master of Business Analytics @ Macquarie University (High Distinction average)
 7 years at Procter & Gamble across supply chain, logistics, and project management
