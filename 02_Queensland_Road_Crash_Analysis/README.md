@@ -15,16 +15,16 @@ What temporal, spatial, and severity patterns in Queensland road crashes can inf
 - Converted date fields to datetime and extracted year, month, and hour
 - Engineered day-of-week and weekday/weekend features
 
-### 2. Visualisations (Tableau — 9 charts, included in report PDF)
+### 2. Visualisations (Tableau — 9 charts)
 - **Figure 1:** Time series of total crashes 2001–2023 with trend line
 - **Figure 2:** Total crashes by month to identify seasonal patterns
-- **Figure 3:** Multi-series crash severity over time (fatal, hospitalisation, medical, minor)
-- **Figure 4:** Choropleth map of fatal crash casualties by Queensland postcode
-- **Figure 5:** Top 10 postcodes by fatal crash casualties (bar chart)
+- **Figure 3:** Multi-series crash severity over time (fatal, hospitalisation, medical, minor) — `Screenshot 2024-07-31 112811.png`
+- **Figure 4:** Choropleth map of fatal crash casualties by Queensland postcode — `Fatal Crash Casualties Count by Queensland Post Code.png`
+- **Figure 5:** Top 10 postcodes by fatal crash casualties — `Top 10 Postcodes by Fatal Crash Casualties.png`
 - **Figure 6:** Fatal crash casualties time series for top 10 high-risk postcodes
-- **Figure 7:** Crashes by severity and hour of day (stacked bar chart)
-- **Figure 8:** Severity distribution across top 10 crash types
-- **Figure 9:** Normalised heatmap of hourly crash severity proportions
+- **Figure 7:** Crashes by severity and hour of day — `Crashes by Severity by Hour.png`
+- **Figure 8:** Severity distribution across top 10 crash types — `Crash Type Severity Distribution Across Top 10 Crash Causes.png`
+- **Figure 9:** Normalised heatmap of hourly crash severity proportions — `Hourly Crash Severity Proportions Normalized by Crash Volume.png`
 
 ## Key findings
 - Total crashes declined significantly since 2008 peak; fatalities remain stable
